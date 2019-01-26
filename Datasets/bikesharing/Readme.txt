@@ -35,7 +35,11 @@ Files
 	- hour.csv : bike sharing counts aggregated on hourly basis. Records: 17379 hours
 	- day.csv - bike sharing counts aggregated on daily basis. Records: 731 days
 
-	
+=========================================
+Challenge details
+=========================================
+Predict the cnt variable from the day.csv dataset. Data analysis from both the datasets gets brownie points!!
+
 =========================================
 Dataset characteristics
 =========================================	
